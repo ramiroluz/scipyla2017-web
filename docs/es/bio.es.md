@@ -17,20 +17,11 @@
 
 ![Grupo CubanTech](../assets/img/cubantech.svg)
 
-El grupo CubanTech está integrado por jóvenes cubanos profesionales de la
-informática que  colaboran con instituciones, asociaciones y fundaciones 
-cubanas para ofrecer actividades de difusión y educación sobre el desarrollo
-inclusivo y colaborativo de tecnologías basadas en estándares abiertos. Con
-apoyo de la PSF organizaremos el primer PyCon Cuba.
+El grupo CubanTech está integrado por jóvenes cubanos profesionales de la informática que  colaboran con instituciones, asociaciones y fundaciones cubanas para ofrecer actividades de difusión y educación sobre el desarrollo inclusivo y colaborativo de tecnologías basadas en estándares abiertos. Con apoyo de la PSF organizaremos el primer PyCon Cuba.
 
 ![Python Software Foundation](../assets/img/psf.png)
 
-La Python Software Foundation (PSF) es una organización sin ánimos de lucro
-y membresía abierta, dedicada al mejoramiento de las tecnologías de
-código abierto relacionadas con el lenguaje de programación Python.
-La misma opera bajo las reglas del epígrafe 501(c)3 del US Internal Revenue Code,
-con el status de organización caritativa, pública, exenta de gravámenes
-tributarios, y de carácter científico y educacional.
+La Python Software Foundation (PSF) es una organización sin ánimos de lucro y membresía abierta, dedicada al mejoramiento de las tecnologías de código abierto relacionadas con el lenguaje de programación Python. La misma opera bajo las reglas del epígrafe 501(c)3 del US Internal Revenue Code, con el status de organización caritativa, pública, exenta de gravámenes tributarios, y de carácter científico y educacional.
 
 ******************************************************************
 
@@ -78,16 +69,7 @@ Algunas áreas específicas de interés son:
 
 En general el comité del evento aceptará artículos relacionados con las siguientes disciplinas:
 
-Química Analítica, Astrobiología, Bioquímica, Bioinformática,
-Biomateriales, Biomecánica, Biofísica, Biotecnología,
-Ingeniería Química, Biología Química, Quimioinformática, Biología Computacional,
-Química Computacional, Química Nuclear, Química de Flujos, Genética, Genómica,
-Ciencias de la Salud, Inmuno-Química, Inmunología, Biología Matemática,
-Química Matemática, Microbiología, Biología Molecular, Mecánica Molecular,
-Nanomateriales, Nanotecnologías, Neurociencias, Paleo-Biología,
-Ingeniería y Química de Polímeros, Fitoquímica, Biología Estructural,
-Química Supramolecular, Biología Sintética, Métodos de Genómica Sintética,
-Ingeniería de Tejidos, Virología.
+Química Analítica, Astrobiología, Bioquímica, Bioinformática, Biomateriales, Biomecánica, Biofísica, Biotecnología, Ingeniería Química, Biología Química, Quimioinformática, Biología Computacional, Química Computacional, Química Nuclear, Química de Flujos, Genética, Genómica, Ciencias de la Salud, Inmuno-Química, Inmunología, Biología Matemática, Química Matemática, Microbiología, Biología Molecular, Mecánica Molecular, Nanomateriales, Nanotecnologías, Neurociencias, Paleo-Biología, Ingeniería y Química de Polímeros, Fitoquímica, Biología Estructural, Química Supramolecular, Biología Sintética, Métodos de Genómica Sintética, Ingeniería de Tejidos, Virología.
 
 ******************************************************************
 
@@ -218,7 +200,7 @@ Para facilitar su viaje a Cuba le recomendamos leer [Instrucciones para viajar a
 
 # Contactos {#Contact}
 
-Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **contactos del evento**. 
+Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **contactos del evento**.
 
 *   2017@scipyla.org
 *   scipyla2017@pythoncuba.org

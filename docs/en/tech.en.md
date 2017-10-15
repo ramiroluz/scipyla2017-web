@@ -3,7 +3,7 @@
 
 ![SciPyLA 2017](../assets/img/scipyla.svg)
 
-# SciPyLA 
+# SciPyLA
 # ==2017==
 
 ## More Python, More Science
@@ -34,10 +34,10 @@ Spanish, Portuguese, English
 
 ## Objectives
 
-*   Promote the use of accesible and reproducible approaches in scientific research. 
-*   Present recent sci-tech findings using Python or related tools. 
-*   Promote the use of Python in science development. 
-*   Contribute to the Latin American technological development. 
+*   Promote the use of accesible and reproducible approaches in scientific research.
+*   Present recent sci-tech findings using Python or related tools.
+*   Promote the use of Python in science development.
+*   Contribute to the Latin American technological development.
 
 ******************************************************************
 
@@ -124,7 +124,7 @@ The conference offers the researchers the opportunity to publish in the internat
 | ![EZB Regensburg University](../assets/img/ezb-logo.png) | **Electronic Journal Library @ University Library of Regensburg** : The Electronic Journals Library is a service that enable the access to serialized journals spread over Internet. In 2016 more than 600 institutions collaborate actively with the project. |
 | ![eGranary](../assets/img/egranary-logo.png) | **eGranary Digital Library** : eGranary Digital Library - also known as _Internet inside a box_ - offers millions of educational resources to institutions with low band Internet access. |
 
-By mutual agreement between authors and the Program Committee of the SciPyLA 2017 conference, some papers considered relevant by the reviewers might be selected for publication in other magazines of the academic partners of the event. 
+By mutual agreement between authors and the Program Committee of the SciPyLA 2017 conference, some papers considered relevant by the reviewers might be selected for publication in other magazines of the academic partners of the event.
 
 #### Submitting papers to TPP
 
@@ -146,7 +146,7 @@ By mutual agreement between authors and the Program Committee of the SciPyLA 201
 
     4.2 ACCEPTED: You will be asked to address the reviewers comments and submit the camera-ready version by July 15 (see __Important Dates__ section).
 
-#### Submitting Poster-Abstracts to TPPM 
+#### Submitting Poster-Abstracts to TPPM
 
 You will only be required to submit the abstract of your presentation.
 

@@ -105,7 +105,7 @@ TODO: Travel guidelines
 
 # Contactos {#Contact}
 
-Ayúdenos a organizar sus intereses en la agenda de la conferencia enviando su área específica de investigación a los contactos del evento. 
+Ayúdenos a organizar sus intereses en la agenda de la conferencia enviando su área específica de investigación a los contactos del evento.
 
 *   2017@scipyla.org
 *   scipyla2017@pythoncuba.org
