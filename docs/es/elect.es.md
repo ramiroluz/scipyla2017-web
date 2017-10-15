@@ -3,7 +3,7 @@
 
 ![SciPyLA 2017](../assets/img/scipyla.svg)
 
-# SciPyLA 
+# SciPyLA
 # ==2017==
 
 ## Más Python, Más ciencia
@@ -17,20 +17,11 @@
 
 ![Grupo CubanTech](../assets/img/cubantech.svg)
 
-El grupo CubanTech está integrado por jóvenes cubanos profesionales de la
-informática que  colaboran con instituciones, asociaciones y fundaciones 
-cubanas para ofrecer actividades de difusión y educación sobre el desarrollo
-inclusivo y colaborativo de tecnologías basadas en estándares abiertos. Con
-apoyo de la PSF organizaremos el primer PyCon Cuba.
+El grupo CubanTech está integrado por jóvenes cubanos profesionales de la informática que  colaboran con instituciones, asociaciones y fundaciones cubanas para ofrecer actividades de difusión y educación sobre el desarrollo inclusivo y colaborativo de tecnologías basadas en estándares abiertos. Con apoyo de la PSF organizaremos el primer PyCon Cuba.
 
 ![Python Software Foundation](../assets/img/psf.png)
 
-La Python Software Foundation (PSF) es una organización sin ánimos de lucro
-y membresía abierta, dedicada al mejoramiento de las tecnologías de
-código abierto relacionadas con el lenguaje de programación Python.
-La misma opera bajo las reglas del epígrafe 501(c)3 del US Internal Revenue Code,
-con el status de organización caritativa, pública, exenta de gravámenes
-tributarios, y de carácter científico y educacional.
+La Python Software Foundation (PSF) es una organización sin ánimos de lucro y membresía abierta, dedicada al mejoramiento de las tecnologías de código abierto relacionadas con el lenguaje de programación Python. La misma opera bajo las reglas del epígrafe 501(c)3 del US Internal Revenue Code, con el status de organización caritativa, pública, exenta de gravámenes tributarios, y de carácter científico y educacional.
 
 ******************************************************************
 
@@ -94,17 +85,11 @@ Algunas áreas específicas de interés son:
 
 In general the program committee will accept paper submissions related to the following disciplines:
 
-Aerospace Engineering, Artificial Intelligence, Control Systems and Theory, Electronics,
-Electronic Design Automation, Electronic materials and Devices, Hardware Design,
-High-Performance Computing, Magnetic Materials and Devices, Mechatronics,
-Optical materials and devices, Robotics, Semiconductors.
+Aerospace Engineering, Artificial Intelligence, Control Systems and Theory, Electronics, Electronic Design Automation, Electronic materials and Devices, Hardware Design, High-Performance Computing, Magnetic Materials and Devices, Mechatronics, Optical materials and devices, Robotics, Semiconductors.
 
 En general el comité del evento aceptará artículos relacionados con las siguientes disciplinas:
 
-Ingeniería aeroespacial, inteligencia artificial, sistemas de control, electrónica,
-automatización de procesos de diseño de hardware, materiales y dispositivos electrónicos,
-diseño de hardware, computación de gama alta, materiales y dispositivos magnéticos,
-mecatrónica, materiales y dispositivos ópticos, robótica, tecnologías para semiconductores.
+Ingeniería aeroespacial, inteligencia artificial, sistemas de control, electrónica, automatización de procesos de diseño de hardware, materiales y dispositivos electrónicos, diseño de hardware, computación de gama alta, materiales y dispositivos magnéticos, mecatrónica, materiales y dispositivos ópticos, robótica, tecnologías para semiconductores.
 
 ******************************************************************
 
@@ -235,7 +220,7 @@ Para facilitar su viaje a Cuba le recomendamos leer [Instrucciones para viajar a
 
 # Contactos {#Contact}
 
-Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **contactos del evento**. 
+Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **contactos del evento**.
 
 *   2017@scipyla.org
 *   scipyla2017@pythoncuba.org

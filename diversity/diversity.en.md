@@ -118,8 +118,7 @@ Source: https://github.com/yamila-moreno/pepa/blob/master/pepa.py
 
 ### Bonus: why this codename
 
-The codename is a word play. On one hand it comes from the Python Enhancement Proposals, aka, PEPs.
-On the other hand, as this document was presented in III Pycon Spain, it references a historical moment in Spain: in 1812 was presented the first Contitution in Spain, the first time ever talking about the rights of *citizens*. This Constitution was commonly known as *Pepa*.
+The codename is a word play. On one hand it comes from the Python Enhancement Proposals, aka, PEPs. On the other hand, as this document was presented in III Pycon Spain, it references a historical moment in Spain: in 1812 was presented the first Contitution in Spain, the first time ever talking about the rights of *citizens*. This Constitution was commonly known as *Pepa*.
 
 ## References
 

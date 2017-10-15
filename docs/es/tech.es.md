@@ -3,7 +3,7 @@
 
 ![SciPyLA 2017](../assets/img/scipyla.svg)
 
-# SciPyLA 
+# SciPyLA
 # ==2017==
 
 ## Más Python, Más ciencia
@@ -17,26 +17,17 @@
 
 ![Grupo CubanTech](../assets/img/cubantech.svg)
 
-El grupo CubanTech está integrado por jóvenes cubanos profesionales de la
-informática que  colaboran con instituciones, asociaciones y fundaciones 
-cubanas para ofrecer actividades de difusión y educación sobre el desarrollo
-inclusivo y colaborativo de tecnologías basadas en estándares abiertos. Con
-apoyo de la PSF organizaremos el primer PyCon Cuba.
+El grupo CubanTech está integrado por jóvenes cubanos profesionales de la informática que  colaboran con instituciones, asociaciones y fundaciones cubanas para ofrecer actividades de difusión y educación sobre el desarrollo inclusivo y colaborativo de tecnologías basadas en estándares abiertos. Con apoyo de la PSF organizaremos el primer PyCon Cuba.
 
 ![Python Software Foundation](../assets/img/psf.png)
 
-La Python Software Foundation (PSF) es una organización sin ánimos de lucro
-y membresía abierta, dedicada al mejoramiento de las tecnologías de
-código abierto relacionadas con el lenguaje de programación Python.
-La misma opera bajo las reglas del epígrafe 501(c)3 del US Internal Revenue Code,
-con el status de organización caritativa, pública, exenta de gravámenes
-tributarios, y de carácter científico y educacional.
+La Python Software Foundation (PSF) es una organización sin ánimos de lucro y membresía abierta, dedicada al mejoramiento de las tecnologías de código abierto relacionadas con el lenguaje de programación Python. La misma opera bajo las reglas del epígrafe 501(c)3 del US Internal Revenue Code, con el status de organización caritativa, pública, exenta de gravámenes tributarios, y de carácter científico y educacional.
 
 ******************************************************************
 
 ## Taller Latinoamericano de Python y Tecnologías Emergentes de Cómputo
 
-La ciencia y Python ofrecen respuestas a iniciativas regionales que aprovechan oportunidades generadas por más de 689 millones de cuentas móviles, 50 millones de consumidores activos, y un mercado de IoT estimado en $15.6 mil millones y 800 millones de dispositivos conectados. 
+La ciencia y Python ofrecen respuestas a iniciativas regionales que aprovechan oportunidades generadas por más de 689 millones de cuentas móviles, 50 millones de consumidores activos, y un mercado de IoT estimado en $15.6 mil millones y 800 millones de dispositivos conectados.
 
 ## Idiomas oficiales
 
@@ -99,10 +90,7 @@ Algunas áreas específicas de interés son:
 
 En general el comité del evento aceptará artículos relacionados con las siguientes disciplinas:
 
-Intelgencia artificial, inteligencia de negocios (BI), criptografía, ciencia de datos,
-Almacenes de datos, redes digitales de difusión de datos, procesamiento de señales digitales,
-medios de difusión masiva, redes de fibra óptica, computación cuántica, telecomunicaciones,
-tecnologías inalámbricas.
+Intelgencia artificial, inteligencia de negocios (BI), criptografía, ciencia de datos, Almacenes de datos, redes digitales de difusión de datos, procesamiento de señales digitales, medios de difusión masiva, redes de fibra óptica, computación cuántica, telecomunicaciones, tecnologías inalámbricas.
 
 ![Welcome reviewers](../assets/img/cfr.png)
 
@@ -231,7 +219,7 @@ Para facilitar su viaje a Cuba le recomendamos leer [Instrucciones para viajar a
 
 # Contactos {#Contact}
 
-Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **contactos del evento**. 
+Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **contactos del evento**.
 
 *   2017@scipyla.org
 *   scipyla2017@pythoncuba.org

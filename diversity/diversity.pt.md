@@ -135,8 +135,7 @@ Fonte: https://github.com/yamila-moreno/pepa/blob/master/pepa.py
 Bônus: por que este codinome?
 ========================
 
-O codinome é um jogo de palavras. De um lado vem das Propostas de Melhoria do Python (Python Enhancement Proposals), também conhecidas como PEPs.
-Por outro lado, como este documento foi apresentado na III Pycon Espanha, ele referencia um momento histórico na Espanha: em 1812 foi apresentada a primeira Constituição na Espanha, a primeira vez em que se falou em direitos de *cidadãos*. Esta Constituição foi frequentemente chamada de *Pepa*.
+O codinome é um jogo de palavras. De um lado vem das Propostas de Melhoria do Python (Python Enhancement Proposals), também conhecidas como PEPs. Por outro lado, como este documento foi apresentado na III Pycon Espanha, ele referencia um momento histórico na Espanha: em 1812 foi apresentada a primeira Constituição na Espanha, a primeira vez em que se falou em direitos de *cidadãos*. Esta Constituição foi frequentemente chamada de *Pepa*.
 
 Referências
 ==========

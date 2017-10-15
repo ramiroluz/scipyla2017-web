@@ -9,7 +9,7 @@ Parte de los fondos recaudados con los pagos por inscripción se utilizan para p
 
 - **Tarifa Individual**: Si Usted paga su participación en el evento, Usted debe registrarse con una tarifa individual. Los empleados de organizaciones sin ánimo de lucro son elegibles para registrarse con una tarifa corporativa. Considere que la tarifa varía de acuerdo a su zona geográfica de orígen. Esto expresa la intención de otorgar una bonificación a personas que viajen desde países en vías de desarrollo
 
-- **Tarifa para Estudiantes** : Esta tarifa es para estudiantes a tiempo completo e invitados académicos. La asistencia en esta modalidad 
+- **Tarifa para Estudiantes** : Esta tarifa es para estudiantes a tiempo completo e invitados académicos. La asistencia en esta modalidad
 
 A continuación le mostramos los precios de inscripción.
 

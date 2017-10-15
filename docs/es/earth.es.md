@@ -3,7 +3,7 @@
 
 ![SciPyLA 2017](../assets/img/scipyla.svg)
 
-# SciPyLA 
+# SciPyLA
 # ==2017==
 
 ## Más Python, Más ciencia
@@ -17,20 +17,11 @@
 
 ![Grupo CubanTech](../assets/img/cubantech.svg)
 
-El grupo CubanTech está integrado por jóvenes cubanos profesionales de la
-informática que  colaboran con instituciones, asociaciones y fundaciones 
-cubanas para ofrecer actividades de difusión y educación sobre el desarrollo
-inclusivo y colaborativo de tecnologías basadas en estándares abiertos. Con
-apoyo de la PSF organizaremos el primer PyCon Cuba.
+El grupo CubanTech está integrado por jóvenes cubanos profesionales de la informática que  colaboran con instituciones, asociaciones y fundaciones cubanas para ofrecer actividades de difusión y educación sobre el desarrollo inclusivo y colaborativo de tecnologías basadas en estándares abiertos. Con apoyo de la PSF organizaremos el primer PyCon Cuba.
 
 ![Python Software Foundation](../assets/img/psf.png)
 
-La Python Software Foundation (PSF) es una organización sin ánimos de lucro
-y membresía abierta, dedicada al mejoramiento de las tecnologías de
-código abierto relacionadas con el lenguaje de programación Python.
-La misma opera bajo las reglas del epígrafe 501(c)3 del US Internal Revenue Code,
-con el status de organización caritativa, pública, exenta de gravámenes
-tributarios, y de carácter científico y educacional.
+La Python Software Foundation (PSF) es una organización sin ánimos de lucro y membresía abierta, dedicada al mejoramiento de las tecnologías de código abierto relacionadas con el lenguaje de programación Python. La misma opera bajo las reglas del epígrafe 501(c)3 del US Internal Revenue Code, con el status de organización caritativa, pública, exenta de gravámenes tributarios, y de carácter científico y educacional.
 
 ******************************************************************
 
@@ -80,11 +71,7 @@ Algunas áreas específicas de interés son:
 
 En general el comité del evento aceptará artículos relacionados con las siguientes disciplinas:
 
-Astronomía, astrofísica, química atmosférica, ecotecnología, edafología,
-gemología, geoquímica, geodesia, geografía, geología, geomorfología, geofísica, glaciología,
-hidrogeología, química inorgánica, química marina, meteorología, mineralogía,
-oceanografía, paleontología, pedología, petroquímica, sísmica, ciencia de sustratos,
-espeleología
+Astronomía, astrofísica, química atmosférica, ecotecnología, edafología, gemología, geoquímica, geodesia, geografía, geología, geomorfología, geofísica, glaciología, hidrogeología, química inorgánica, química marina, meteorología, mineralogía, oceanografía, paleontología, pedología, petroquímica, sísmica, ciencia de sustratos, espeleología
 
 ******************************************************************
 
@@ -215,7 +202,7 @@ Para facilitar su viaje a Cuba le recomendamos leer [Instrucciones para viajar a
 
 # Contactos {#Contact}
 
-Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **contactos del evento**. 
+Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **contactos del evento**.
 
 *   2017@scipyla.org
 *   scipyla2017@pythoncuba.org
